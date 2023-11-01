@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "Hackerrank test",
   "main": "server.js",
-  
   "scripts": {
     "test": "npm run"
-    
   },
   "author": "",
   "license": "ISC",
@@ -16,6 +14,8 @@
     "express": "^4.18.2"
   },
   "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
     "nodemon": "^3.0.1"
   }
 }
