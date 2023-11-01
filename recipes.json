@@ -1,0 +1,39 @@
+[
+    {
+      "id" : 1,
+      "name": "Biryani"
+    },
+    {
+      "id" : 2,
+      "name": "Karahi"
+    },
+    {
+      "id" : 3,
+      "name": "Daal"
+    },
+    {
+      "id" : 4,
+      "name": "Mutton"
+    },
+    {
+      "id" : 5,
+      "name": "Nihari"
+    },
+    {
+      "id" : 6,
+      "name": "Channy"
+    },
+    {
+      "id" : 7,
+      "name": "Pasta"
+    },
+    {
+      "id" : 8,
+      "name": "Burgers"
+    },
+    {
+      "id" : 9,
+      "name": "Spaghettis"
+    }
+  ]
+  
